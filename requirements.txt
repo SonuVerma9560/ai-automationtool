@@ -1,5 +1,0 @@
-streamlit
-pandas
-groq
-openpyxl
-python-dotenv
